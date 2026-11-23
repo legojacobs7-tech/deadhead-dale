@@ -4,13 +4,13 @@ Scripts Bill has approved, in the order they should be made. The nightly product
 
 <!-- Format:
 ## <idea id> — <title>
-status: in production (manual session 2026-11-23)
+status: approved
 script:
 <one sentence per line, exactly as it should be voiced>
 -->
 
 ## 2026-11-23-A — Shower #47
-status: in production (manual session 2026-11-23)
+status: scheduled 2026-11-24 10:00 CT (episode 4)
 script:
 The truck stop says shower number forty-seven is next.
 Dale is number nine hundred.
