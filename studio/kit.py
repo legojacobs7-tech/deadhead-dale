@@ -383,13 +383,13 @@ def shelf_unit(x, y, length=6, rot=0, empty_shelf=False, seed=0, parent=None):
                 xx += w + 0.05
     return g
 
-def store_interior(empty_aisle=True):
+def store_interior(empty_aisle=True, label="HARDWARE", accent=(0.95, 0.45, 0.05)):
     plane((60, 60), (0.78, 0.78, 0.76))
     for x in range(-30, 31, 2):
         box((0.03, 60, 0.01), (0.7, 0.7, 0.68), (x, 0, 0.005))
     box((60, 0.3, 9), (0.92, 0.9, 0.82), (0, 14, 4.5))
-    box((40, 0.3, 1.2), (0.95, 0.45, 0.05), (0, 13.8, 6.5))
-    text("HARDWARE", 1.2, WHITE, (0, 13.6, 6.5))
+    box((40, 0.3, 1.2), accent, (0, 13.8, 6.5))
+    text(label, 1.2, WHITE, (0, 13.6, 6.5))
     for y in (2, 7):
         for x in (-7.5, 7.5): shelf_unit(x, y, 7, seed=int(x + y))
     shelf_unit(-3.6, 3.5, 5, rot=90, empty_shelf=empty_aisle, seed=3)
@@ -405,12 +405,12 @@ def outdoor(ground=(0.42, 0.68, 0.3), asphalt=True):
         plane((40, 30), (0.28, 0.28, 0.3), (0, 2, 0.01))
         for x in range(-16, 17, 4): box((0.15, 4, 0.01), WHITE, (x, 6, 0.02))
 
-def storefront(loc=(0, 12, 0)):
+def storefront(loc=(0, 12, 0), label="HARDWARE", accent=(0.95, 0.45, 0.05)):
     g = empty("storefront", None, loc)
     box((16, 6, 7), (0.88, 0.86, 0.8), (0, 3, 3.5), g)
-    box((16.4, 6.4, 0.5), (0.95, 0.45, 0.05), (0, 3, 7.1), g)
-    box((10, 0.2, 1.8), (0.95, 0.45, 0.05), (0, -0.1, 5.6), g)
-    text("HARDWARE", 1.3, WHITE, (0, -0.25, 5.6), g)
+    box((16.4, 6.4, 0.5), accent, (0, 3, 7.1), g)
+    box((10, 0.2, 1.8), accent, (0, -0.1, 5.6), g)
+    text(label, 1.3, WHITE, (0, -0.25, 5.6), g)
     box((4, 0.15, 3.2), (0.45, 0.7, 0.85), (0, -0.05, 1.6), g)
     for x in (-5.5, 5.5): box((3, 0.15, 2), (0.45, 0.7, 0.85), (x, -0.05, 2.2), g)
     return g
@@ -601,4 +601,38 @@ def weigh_station(loc=(0, 0, 0)):
     box((7, 5, 3.6), (0.85, 0.82, 0.72), (0, 0, 1.8), g); box((7.4, 5.4, 0.4), (0.45, 0.3, 0.2), (0, 0, 3.8), g)
     box((3, 0.1, 1.2), (0.5, 0.75, 0.9), (0, -2.55, 2.0), g)
     box((5, 0.15, 1.0), (0.1, 0.45, 0.2), (0, -2.6, 3.0), g); text("WEIGH STATION", 0.5, WHITE, (0, -2.7, 3.0), g)
+    return g
+
+
+# ------------------------------------------------------------------ misc kit (ep4/ep5)
+def kiosk(loc=(0, 0, 0), rot=0):
+    """Self-checkout: returns dict(root, screen_ok, screen_err, screen_price, bag)."""
+    g = empty("kiosk", None, loc); g.rotation_euler = (0, 0, R(rot))
+    box((1.0, 0.7, 1.0), (0.25, 0.25, 0.28), (0, 0, 0.5), g)
+    box((1.2, 0.8, 0.08), (0.35, 0.35, 0.38), (0, -0.05, 1.04), g)
+    box((0.5, 0.5, 0.03), (0.9, 0.2, 0.2), (0, -0.05, 1.09), g)     # scanner glass
+    cyl(0.05, 0.9, (0.4, 0.4, 0.42), (0, 0.3, 1.5), g)
+    box((1.0, 0.1, 0.7), BLACK, (0, 0.3, 2.1), g, rot=(R(-12), 0, 0))
+    scr = {}
+    scr["ok"] = box((0.9, 0.11, 0.6), (0.2, 0.6, 0.9), (0, 0.27, 2.1), g, rot=(R(-12), 0, 0))
+    scr["err"] = box((0.9, 0.11, 0.6), (0.85, 0.1, 0.1), (0, 0.26, 2.1), g, rot=(R(-12), 0, 0))
+    scr["price"] = box((0.9, 0.11, 0.6), (0.1, 0.1, 0.12), (0, 0.25, 2.1), g, rot=(R(-12), 0, 0))
+    bag = box((1.0, 0.8, 0.9), (0.3, 0.3, 0.33), (1.15, 0, 0.45), g)
+    box((1.0, 0.8, 0.05), (0.55, 0.55, 0.58), (1.15, 0, 0.92), g)
+    return dict(root=g, scr=scr, bag_top=(loc[0] + 1.15, loc[1], 0.95))
+
+def trucker(name, seed=0):
+    rnd = random.Random(seed)
+    shirts = [(0.2, 0.35, 0.7), (0.3, 0.55, 0.3), (0.6, 0.3, 0.15), (0.45, 0.45, 0.5), (0.7, 0.6, 0.2), (0.5, 0.2, 0.5)]
+    caps = [(0.1, 0.3, 0.7), (0.2, 0.5, 0.2), (0.85, 0.5, 0.1), (0.15, 0.15, 0.15)]
+    skins = [(0.92, 0.65, 0.48), (0.75, 0.5, 0.35), (0.55, 0.36, 0.24), (0.95, 0.75, 0.6)]
+    P = person(name, shirt=rnd.choice(shirts), hat=None, belly=rnd.random() < 0.6, mustache=rnd.random() < 0.5, skin=rnd.choice(skins))
+    h = empty("tcap", P["neck"]); c = rnd.choice(caps)
+    box((0.84, 0.8, 0.26), c, (0, 0.02, 0.74), h); box((0.6, 0.4, 0.05), c, (0, -0.52, 0.63), h)
+    return P
+
+def milk(loc=(0, 0, 0), parent=None):
+    g = empty("milk", parent, loc)
+    box((0.3, 0.3, 0.45), WHITE, (0, 0, 0), g); box((0.1, 0.1, 0.08), (0.2, 0.4, 0.9), (0, 0, 0.26), g)
+    box((0.31, 0.31, 0.12), (0.2, 0.4, 0.9), (0, 0, 0.0), g)
     return g
