@@ -33,7 +33,7 @@ Next truck stop.
 Shower number forty-seven is next...
 
 ## 2026-11-23-B — Unexpected Goose in the Bagging Area
-status: in production (manual session 2026-11-23)
+status: scheduled 2026-11-25 10:00 CT (episode 5)
 script:
 Unexpected item in the bagging area.
 Dale didn't put anything in the bagging area.
