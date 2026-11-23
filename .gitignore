@@ -1,0 +1,8 @@
+studio/ep*/
+studio/prev/
+studio/*.png
+studio/*.jpg
+studio/*.wav
+studio/*_plan.json
+studio/__pycache__/
+*.log
