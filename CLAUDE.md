@@ -9,6 +9,11 @@ Instagram: @deadhead.dale (Metricool brand/blogId 8301887). Owner: Bill. Post 1 
 - Voice: ElevenLabs "Monotone Mike" voice_id aWSwMfJOK8iYZivczje6, model eleven_v4, prompt starts "[deadpan, flat, matter-of-fact]", 1 take.
 - Caption: hook line + share prompt ("Tag/Send this to someone who...") + ~10 hashtags incl #deadheaddale. Mark isAiGenerated true.
 
+## Workflow
+- Ideas: every day 5 new full scripts are appended to IDEAS.md (dated batch, ids like 2026-11-23-A) and sent to Bill. Bill replies with the ones he wants (he may edit lines). Copy picked scripts into QUEUE.md with status `approved`, in his order.
+- Production: the nightly run renders ONLY the first `approved` item in QUEUE.md. Never invent and post a script Bill didn't pick. If the queue is empty, schedule nothing.
+- Episodes 1 and 2 are skipped; studio/ep1.py and ep2.py stay only as code examples.
+
 ## Pipeline (all paths absolute under /home/claude/deadhead-dale)
 1. `pip install --break-system-packages bpy` (Blender as a module; Workbench renderer, ~1 s/frame on 2 CPUs).
 2. Voice: generate via ElevenLabs connector, download content_url mp3 with curl, then
