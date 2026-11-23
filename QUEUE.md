@@ -4,7 +4,7 @@ Scripts Bill has approved, in the order they should be made. The nightly product
 
 <!-- Format:
 ## <idea id> — <title>
-status: approved
+status: <approved | scheduled DATE>
 script:
 <one sentence per line, exactly as it should be voiced>
 -->
