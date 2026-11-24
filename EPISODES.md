@@ -6,4 +6,4 @@
 | 2 | The Scale | 2,000 lbs over; eats the watermelons; belly is a 34°F reefer; DOT officer moves in | Skipped (Bill's call) |
 | 3 | One Screw | Hardware store out of screws; screw from a lawnmower; Dale becomes mayor; geese vote and take over | Scheduled Mon 2026-11-23 10:00 CT (Metricool) — videos/ep003_one_screw.mp4 |
 | 4 | Shower #47 | Dale is #900 for the truck stop shower; turns his trailer into a pool, buys the truck stop, bans towels; Ohio state of emergency | Scheduled Tue 2026-11-24 10:00 CT — videos/ep004_shower_47.mp4 |
-| 5 | Unexpected Goose in the Bagging Area | Self-checkout finds a goose; geese multiply until the store and manager are geese; Dale leaves with milk | Scheduled Wed 2026-11-25 10:00 CT — videos/ep005_unexpected_goose.mp4 |
+| 5 | Unexpected Goose in the Bagging Area | Self-checkout finds a goose; geese multiply until the store explodes; next store's goose manager heard about it and refuses Dale milk; Dale can't go home to his kid without milk, tries one more store | Scheduled Wed 2026-11-25 10:00 CT — videos/ep005_unexpected_goose_v2.mp4 (re-cut 2026-11-24) |
