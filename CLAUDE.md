@@ -1,6 +1,6 @@
 # Deadhead Dale — daily Reel studio
 
-Instagram: @deadhead.dale (Metricool brand/blogId 8301887). Owner: Bill. Post 1 Reel/day at 10:00 AM America/Chicago.
+Instagram: @deadhead.dale (Metricool brand/blogId 8301887). Owner: Bill. Post 2 Reels/day at 10:00 AM and 6:00 PM America/Chicago (since 2026-11-24).
 
 ## Format
 - Deadpan absurd comedy, low-poly 3D, like @semigenius. Star: Dale (trucker, red DALE cap, mustache, plaid, belly).
@@ -13,7 +13,7 @@ Instagram: @deadhead.dale (Metricool brand/blogId 8301887). Owner: Bill. Post 1 
 
 ## Workflow
 - Ideas: every day 5 new full scripts are appended to IDEAS.md (dated batch, ids like 2026-11-23-A) and sent to Bill. Bill replies with the ones he wants (he may edit lines). Copy picked scripts into QUEUE.md with status `approved`, in his order.
-- Production: the nightly run renders ONLY the first `approved` item in QUEUE.md. Never invent and post a script Bill didn't pick. If the queue is empty, schedule nothing.
+- Production: the nightly run fills the next two free slots (10:00 / 18:00 CT) with the first `approved` items in QUEUE.md, in order. Never invent and post a script Bill didn't pick. If the queue is empty, schedule nothing.
 - Episodes 1 and 2 are skipped; studio/ep1.py and ep2.py stay only as code examples.
 
 ## Pipeline (all paths absolute under /home/claude/deadhead-dale)

@@ -108,3 +108,77 @@ God damn it.
 Dale eats a cold Hot Pocket in the dark.
 Best goddamn one he's ever had.
 Dale's microwave beeps...
+
+## 2026-11-24-A — Tuesday
+status: approved
+script:
+Dale wakes up.
+It's Tuesday.
+Dale fucking hates Tuesday.
+He eats a cereal box. Not the cereal. The box.
+A horse walks in and asks for directions to Denver.
+Dale gives that smug son of a bitch the wrong directions on purpose.
+The horse knows.
+Dale's mustache falls off.
+Underneath is a smaller, shittier mustache.
+His neighbor is a lighthouse now.
+Nobody talks about it.
+Dale mows the lawn indoors.
+The goddamn lawn is on the ceiling.
+A goose does Dale's taxes.
+Dale owes the goose four hundred fucking dollars.
+He pays in gravy.
+The moon calls Dale a bitch.
+Dale calls the moon a bitch right back.
+It's Wednesday now. Thank fucking God.
+Dale goes back to sleep.
+Dale wakes up...
+
+## 2026-11-24-B — Gas Station Sushi
+status: approved
+script:
+Dale buys gas station sushi.
+The sushi is warm.
+The sushi is breathing.
+Dale names it Kevin.
+Kevin gets his CDL.
+Kevin drives better than Dale, the little asshole.
+Dale's truck starts speaking French.
+Dale doesn't speak fucking French.
+He nods anyway.
+A cowboy rides by on a vending machine.
+The vending machine is out of goddamn Doritos.
+Dale punches the sky.
+The sky gives him a refund.
+Seven dollars in quarters, all from 1974.
+Dale's left boot moves to Florida without a fucking word.
+His right boot stays loyal.
+Kevin wins a Grammy.
+Kevin doesn't thank Dale, the slimy son of a bitch.
+Dale goes back to the gas station.
+Dale buys gas station sushi...
+
+## 2026-11-24-C — Weather Man
+status: approved
+script:
+Dale is the weather man now.
+Nobody hired him.
+He just showed the fuck up.
+Tomorrow: seventy percent chance of geese.
+Thursday: hot dogs falling from the sky. Mostly relish.
+The anchor asks if Dale is qualified.
+Dale says, I've seen weather, asshole.
+The green screen turns into an actual goddamn field.
+A cow wanders onto the news.
+The cow gets a better contract than Dale.
+Dale's forecast for the weekend: shit.
+Just shit.
+Nobody asks a follow-up question.
+Saturday it rains spaghetti.
+Dale was right about fucking nothing, and the ratings triple.
+Dale gets his own show.
+The show is Dale staring out a window.
+Twelve million viewers.
+The window wins an Emmy, the bitch.
+The next morning, the anchor quits.
+Dale is the weather man now...
