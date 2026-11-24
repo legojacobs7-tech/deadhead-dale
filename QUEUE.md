@@ -60,3 +60,51 @@ Dale cannot go home without the fucking milk.
 So Dale never goes the fuck home.
 He tries one more store, bitch.
 Unexpected item in the bagging area...
+
+## 2026-11-24-D — Haircut
+status: approved
+script:
+Dale gets a haircut.
+The barber is a raccoon.
+Dale doesn't ask questions.
+The raccoon cuts off Dale's left ear by mistake.
+The ear walks out the door and gets a job at Arby's.
+Dale's cap doesn't fit for shit anymore.
+He wears a traffic cone.
+Traffic stops for him everywhere.
+Dale enjoys the power a little too goddamn much.
+A semi with no driver honks at him.
+Dale honks back with his mouth, like an asshole.
+They're best friends now.
+The raccoon sends Dale a bill for nine thousand fucking dollars.
+Itemized: one ear.
+The ear gets employee of the month.
+Dale is proud, and also pissed the fuck off.
+He visits the Arby's.
+The ear pretends not to know him.
+Cold as shit, man.
+Dale gets a haircut...
+
+## 2026-11-24-E — The Microwave
+status: approved
+script:
+Dale's microwave beeps.
+Nothing is in it.
+Dale didn't turn the damn thing on.
+He opens it, and there's a tiny guy in a lawn chair.
+The tiny guy says, shut the door, asshole, you're letting the heat out.
+Dale shuts the door.
+His fridge starts crying.
+Dale's toaster joins a cult.
+The cult meets in the dishwasher on Sundays.
+Dale is not fucking going.
+The blender says that's very closed-minded, Dale.
+Dale unplugs the blender, the judgmental bitch.
+The power goes out in four states.
+Somewhere in Kansas, a goose screams.
+Dale lights a candle.
+The candle is also in the cult.
+God damn it.
+Dale eats a cold Hot Pocket in the dark.
+Best goddamn one he's ever had.
+Dale's microwave beeps...

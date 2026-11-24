@@ -6,6 +6,7 @@ Instagram: @deadhead.dale (Metricool brand/blogId 8301887). Owner: Bill. Post 1 
 - Deadpan absurd comedy, low-poly 3D, like @semigenius. Star: Dale (trucker, red DALE cap, mustache, plaid, belly).
 - Mix trucking stories and totally random ones (Bill loves the geese / hardware-store episode). Lots of swearing is wanted (fuck, goddamn, shit, bitch, asshole).
 - Script: 15–25 short sentences, escalating absurdity, last line loops into the first line.
+- Swearing (Bill, 2026-11-24): more swears per script, but each must fit naturally where it sits (insults aimed at someone, "for shit", "pissed the fuck off") — never tacked on.
 - Randomness (Bill, 2026-11-24): scripts must be MUCH more random — non-sequitur jumps (talking animals, objects with lives, surreal swerves), not a linear cause-and-effect plot. Aim 35–50 s after processing.
 - Voice: ElevenLabs "Monotone Mike" voice_id aWSwMfJOK8iYZivczje6, model eleven_v4, prompt starts "[deadpan, flat, matter-of-fact]", 1 take.
 - Caption: hook line + share prompt ("Tag/Send this to someone who...") + ~10 hashtags incl #deadheaddale. Mark isAiGenerated true.
