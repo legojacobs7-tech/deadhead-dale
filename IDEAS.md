@@ -215,3 +215,117 @@ Dale says, your building has a semi in it, bitch.
 They put him on hold.
 Dale's phone rings.
 Dale gets a call about his car's extended warranty...
+
+## Batch 2026-11-24 (more random — per Bill, no linear plot)
+
+### 2026-11-24-A — Tuesday (random)
+Dale wakes up.
+It's Tuesday.
+Dale fucking hates Tuesday.
+He eats a cereal box. Not the cereal. The box.
+A horse walks in and asks for directions to Denver.
+Dale gives him the wrong directions on purpose.
+The horse knows.
+Dale's mustache falls off.
+Underneath is a smaller mustache.
+His neighbor is a lighthouse now.
+Nobody talks about it.
+Dale mows the lawn indoors.
+The goddamn lawn is on the ceiling.
+A goose does Dale's taxes.
+Dale owes the goose four hundred dollars.
+He pays in gravy.
+The moon calls Dale a bitch.
+Dale calls the moon a bitch right back.
+It's Wednesday now.
+Dale goes back to sleep.
+Dale wakes up...
+
+### 2026-11-24-B — Gas Station Sushi (random)
+Dale buys gas station sushi.
+The sushi is warm.
+The sushi is breathing.
+Dale names it Kevin.
+Kevin gets his CDL.
+Kevin drives better than Dale.
+Dale's truck starts speaking French.
+Dale doesn't speak fucking French.
+He nods anyway.
+A cowboy rides by on a vending machine.
+The vending machine is out of Doritos.
+Dale punches the sky.
+The sky gives him a refund.
+Seven dollars in quarters, all from 1974.
+Dale's left boot moves to Florida.
+His right boot stays loyal.
+Kevin wins a Grammy.
+Kevin doesn't thank Dale, the slimy son of a bitch.
+Dale goes back to the gas station.
+Dale buys gas station sushi...
+
+### 2026-11-24-C — Weather Man (random)
+Dale is the weather man now.
+Nobody hired him.
+He just showed up.
+Tomorrow: seventy percent chance of geese.
+Thursday: hot dogs falling from the sky. Mostly relish.
+The anchor asks if Dale is qualified.
+Dale says, I've seen weather, asshole.
+The green screen turns into an actual field.
+A cow wanders onto the news.
+The cow gets a better contract than Dale.
+Dale's forecast for the weekend: shit.
+Just shit.
+Nobody asks a follow-up question.
+Saturday it rains spaghetti.
+Dale was right about nothing, and the ratings triple.
+Dale gets his own show.
+The show is Dale staring out a window.
+Twelve million viewers.
+The window wins an Emmy.
+The next morning, the anchor quits.
+Dale is the weather man now...
+
+### 2026-11-24-D — Haircut (random)
+Dale gets a haircut.
+The barber is a raccoon.
+Dale doesn't ask questions.
+The raccoon cuts off Dale's left ear by mistake.
+The ear walks out the door and gets a job at Arby's.
+Dale's cap doesn't fit anymore.
+He wears a traffic cone.
+Traffic stops for him everywhere.
+Dale enjoys the power a little too goddamn much.
+A semi with no driver honks at him.
+Dale honks back with his mouth.
+They're best friends now.
+The raccoon sends Dale a bill for nine thousand dollars.
+Itemized: one ear.
+The ear gets employee of the month.
+Dale is proud, and also pissed the fuck off.
+He visits the Arby's.
+The ear pretends not to know him.
+Cold, man.
+Dale gets a haircut...
+
+### 2026-11-24-E — The Microwave (random)
+Dale's microwave beeps.
+Nothing is in it.
+Dale didn't turn it on.
+He opens it, and there's a tiny guy in a lawn chair.
+The tiny guy says, shut the door, you're letting the heat out.
+Dale shuts the door.
+His fridge starts crying.
+Dale's toaster joins a cult.
+The cult meets in the dishwasher on Sundays.
+Dale is not fucking going.
+The blender says that's very closed-minded, Dale.
+Dale unplugs the blender.
+The power goes out in four states.
+Somewhere in Kansas, a goose screams.
+Dale lights a candle.
+The candle is also in the cult.
+God damn it.
+Dale eats a cold Hot Pocket in the dark.
+Best one he's ever had.
+Dale's microwave beeps...
