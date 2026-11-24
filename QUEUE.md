@@ -86,7 +86,7 @@ Cold as shit, man.
 Dale gets a haircut...
 
 ## 2026-11-24-E — The Microwave
-status: approved
+status: scheduled 2026-11-25 18:00 CT (episode 7)
 script:
 Dale's microwave beeps.
 Nothing is in it.
