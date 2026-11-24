@@ -135,7 +135,7 @@ Dale goes back to sleep.
 Dale wakes up...
 
 ## 2026-11-24-B — Gas Station Sushi
-status: approved
+status: scheduled 2026-11-26 18:00 CT (episode 9)
 script:
 Dale buys gas station sushi.
 The sushi is warm.
