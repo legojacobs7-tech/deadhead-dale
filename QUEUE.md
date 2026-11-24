@@ -159,7 +159,7 @@ Dale goes back to the gas station.
 Dale buys gas station sushi...
 
 ## 2026-11-24-C — Weather Man
-status: approved
+status: scheduled 2026-11-27 10:00 CT (episode 10)
 script:
 Dale is the weather man now.
 Nobody hired him.
