@@ -329,3 +329,122 @@ God damn it.
 Dale eats a cold Hot Pocket in the dark.
 Best one he's ever had.
 Dale's microwave beeps...
+
+## Batch 2026-11-24 (second batch)
+
+Ids continue at F because this date's first batch already used A–E.
+
+### 2026-11-24-F — The Sock (random, Gary callback)
+Dale's dryer ate a sock.
+Just one. The left one.
+Dale is pissed the fuck off about it.
+A week later, he gets a postcard from Las Vegas.
+It's from the sock.
+The sock married a mitten.
+Dale wasn't invited, which is bullshit.
+The dryer says it doesn't know shit about it.
+The dryer is lying through its little lint teeth.
+Dale's washing machine hires a lawyer.
+The lawyer is a pelican.
+The pelican bills by the fish.
+Gary shows up and says he's the sock's father.
+Nobody asked you, Gary.
+A goose testifies against the dryer.
+The dryer gets five years.
+Dale visits every Sunday anyway, the soft son of a bitch.
+The sock sends a photo of the baby.
+It's a coaster.
+Dale does a load of laundry.
+Dale's dryer ate a sock...
+
+### 2026-11-24-G — Jury Duty (random)
+Dale gets called for jury duty.
+The defendant is a pigeon.
+The pigeon is charged with grand theft french fry.
+The judge is a floor lamp.
+Nobody can tell if the judge is on.
+Dale is juror number twelve, and he is not happy about this shit.
+The prosecutor is a very confident ham.
+The ham objects to everything.
+The pigeon pleads not guilty with a fry in its mouth.
+Dale says, come on, man.
+Juror number seven is a canoe.
+The canoe keeps trying to get everybody to go to lunch.
+Dale says, sit the fuck down, canoe.
+The jury deliberates for nine years.
+Dale grows a second mustache on the back of his head.
+The verdict is guilty.
+The pigeon flips off the whole goddamn courtroom with one wing.
+The lamp sentences him to community service.
+He picks up french fries on the highway, and he eats every one.
+Dale checks his mail.
+Dale gets called for jury duty...
+
+### 2026-11-24-H — The Pothole (trucking)
+Dale hits a pothole on I-80.
+The whole truck drops in.
+It's four hundred feet deep.
+At the bottom is a small town.
+The mayor is a catfish in a tie.
+The catfish says, welcome to Pothole, asshole.
+Dale orders the special.
+The special is gravel.
+It's goddamn delicious.
+The waitress is a road flare named Linda.
+Linda is on fire, and she's been through some shit.
+Dale falls in love with Linda.
+Linda falls in love with Dale's trailer.
+The trailer moves in with Linda.
+Dale is single now, and also stranded.
+A road crew fills the pothole from above.
+Dale climbs out through the asphalt like a fucking groundhog.
+He's three days late on a load of mattresses.
+The shipper says, you look like shit, Dale.
+Dale gets back on I-80.
+Dale hits a pothole on I-80...
+
+### 2026-11-24-I — Garage Sale (random, Gary callback)
+Dale has a garage sale.
+Everything is a dollar.
+A lady buys his recliner for a dollar.
+A guy buys Dale's shadow for a dollar.
+Now Dale doesn't have a shadow, and the sun is pissed.
+A goose buys the garage. Not the stuff in it. The garage.
+The goose haggles him down to forty cents, the cheap bitch.
+A tuba wanders up and tries to sell Dale a different tuba.
+Dale says, I'm the one selling shit here, pal.
+The tuba cries a little.
+Gary buys back the lawnmower he sold Dale in 1991.
+Gary says it still runs like crap.
+Dale's house leans over and asks to be sold too.
+Dale says, you're not worth a dollar, house.
+The house says, watch me, asshole.
+The house sells itself to a family of moths.
+Dale counts his money.
+Eleven dollars and forty cents.
+He sleeps on the lawn.
+In the morning, he puts up a sign.
+Dale has a garage sale...
+
+### 2026-11-24-J — One New Voicemail (random)
+Dale has one new voicemail.
+It's from his own truck.
+The truck says, Dale, we need to talk.
+Dale has never heard his truck sound this goddamn serious.
+The truck says it's been seeing a snowplow.
+Dale throws his phone into a lake.
+The lake calls him back.
+The lake says, rude.
+Dale buys a new phone from a moose at a bus stop.
+The moose throws in a free case, which is a pancake.
+The new phone only gets calls from 1962.
+A guy named Earl wants the score of the Rose Bowl.
+Dale says, how the fuck would I know, Earl.
+Earl hangs up on him, the rude asshole.
+The snowplow shows up at Dale's door.
+The snowplow is huge, and Dale's truck looks happy as shit.
+Dale gives them his blessing.
+They honk at each other all night.
+Dale can't sleep.
+At three a.m., the phone buzzes.
+Dale has one new voicemail...
