@@ -110,7 +110,7 @@ Best goddamn one he's ever had.
 Dale's microwave beeps...
 
 ## 2026-11-24-A — Tuesday
-status: approved
+status: scheduled 2026-11-26 10:00 CT (episode 8)
 script:
 Dale wakes up.
 It's Tuesday.
