@@ -10,7 +10,7 @@ script:
 -->
 
 ## 2026-11-23-A — Shower #47
-status: scheduled 2026-11-24 10:00 CT (episode 4)
+status: back burner (episode 4 rendered; pulled from 2026-11-24 per Bill — Metricool draft, not scheduled)
 script:
 The truck stop says shower number forty-seven is next.
 Dale is number nine hundred.
@@ -33,7 +33,7 @@ Next truck stop.
 Shower number forty-seven is next...
 
 ## 2026-11-23-B — Unexpected Goose in the Bagging Area
-status: scheduled 2026-11-25 10:00 CT (episode 5, re-cut v2 per Bill 2026-11-24)
+status: scheduled 2026-11-24 10:00 CT (episode 5, re-cut v2; moved up from 11-25 per Bill)
 script:
 Unexpected item in the bagging area.
 Dale didn't put shit in the bagging area.
