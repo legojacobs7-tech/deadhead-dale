@@ -62,7 +62,7 @@ He tries one more store, bitch.
 Unexpected item in the bagging area...
 
 ## 2026-11-24-D — Haircut
-status: approved
+status: scheduled 2026-11-25 10:00 CT (episode 6)
 script:
 Dale gets a haircut.
 The barber is a raccoon.
