@@ -448,3 +448,125 @@ They honk at each other all night.
 Dale can't sleep.
 At three a.m., the phone buzzes.
 Dale has one new voicemail...
+
+## Batch 2026-11-25
+
+### 2026-11-25-A — The Car Wash (trucking)
+Dale takes his truck through the car wash.
+The truck doesn't fit.
+Dale goes through anyway.
+The big spinny brushes are a married couple.
+They're fighting, and they're taking it out on Dale's mirrors.
+Dale says, leave my goddamn mirrors out of it.
+The soap is pink, and it smells like a bad decision.
+Halfway through, the car wash gets dark.
+Dale is in a tunnel now.
+A mole in a hard hat waves him through.
+The mole says, no trucks after nine, dumbass.
+It's nine-oh-two.
+Dale comes out the other side in a cornfield in Nebraska.
+His truck is clean, but now it's a minivan.
+The minivan has a bumper sticker that says My Kid Is A Goose.
+Dale calls his kid to double-check.
+A goose answers.
+Dale hangs up, pissed the fuck off.
+The brushes text him. They're getting a divorce.
+They want Dale to decide who gets the soap.
+Dale says, that's not my shit to decide.
+His truck is filthy again by Thursday.
+Dale takes his truck through the car wash...
+
+### 2026-11-25-B — Memory Foam (random)
+Dale buys a new mattress.
+The salesman is a ferret in a vest.
+The ferret says, lie down on it, I won't look.
+The ferret looks.
+The mattress has memory foam.
+It remembers everything.
+It remembers 1997, and it is not over it.
+Dale says, what the hell happened in 1997?
+The mattress won't talk about it.
+At night, the mattress hums show tunes.
+Dale's pillow files a noise complaint.
+The landlord is a ceiling fan, and he doesn't give a shit.
+The fan just spins. Always has.
+Dale sleeps on the floor.
+The floor charges him rent, the greedy bastard.
+The mattress gets a girlfriend. She's a futon from Phoenix.
+They are loud as fuck.
+Dale moves into his truck.
+The truck says, back so soon, bitch?
+The ferret calls. There's a thirty-day return policy.
+It's day thirty-one.
+So Dale goes back to the store.
+Dale buys a new mattress...
+
+### 2026-11-25-C — League Night (random, goose callback)
+Dale goes bowling.
+He rents the shoes.
+The shoes are still warm, and they want to talk about it.
+Dale says, absolutely not, shoes.
+The ball has three holes, and something lives in the middle one.
+It's a hermit crab named Doug.
+Doug says, throw me and I'll fucking end you.
+Dale throws Doug anyway.
+Strike.
+The pins all quit and go home to their families.
+The pinsetter machine has to bowl now.
+It's terrible at it, the poor son of a bitch.
+A goose on the next lane is wearing Dale's league shirt.
+It says DALE on the back, spelled right, and that's the worst part.
+The disco lights come on, and the whole bowling alley floats off the ground.
+Nobody gets their shoes back.
+Dale's score is negative forty, which is bullshit.
+Doug moves out and takes the ball with him.
+The nachos are the only thing that stays normal.
+Dale respects the hell out of those nachos.
+Next Thursday, the league calls.
+Dale goes bowling...
+
+### 2026-11-25-D — Parking Ticket (random, goose callback)
+Dale gets a parking ticket.
+He parked in his own driveway.
+The ticket was written by a squirrel in a little hat.
+The squirrel says, rules are rules, asshole.
+Dale says, that's my goddamn driveway.
+The squirrel says, prove it.
+Dale's house won't back him up.
+Dale fights it in traffic court.
+Traffic court is held inside a bouncy castle.
+Everybody is bouncing, so nobody takes this shit seriously.
+The squirrel shows up with a hundred cousins.
+They all brought acorns. As evidence of what, nobody knows.
+The judge is a parking meter, and you have to feed her quarters to keep her awake.
+Dale runs out of quarters.
+The judge falls asleep mid-sentence.
+A goose bounces by and eats the ticket.
+Case dismissed, technically.
+The squirrel swears revenge, the little bitch.
+Dale drives home.
+He parks in his own driveway...
+
+### 2026-11-25-E — Thanksgiving (random, Gary callback)
+Dale is hosting Thanksgiving.
+Nobody asked him to.
+The turkey shows up alive, holding a casserole.
+The turkey says, I'm a guest, asshole.
+Dale sets another plate.
+The cranberry sauce slides out of the can in one piece and walks away.
+Dale doesn't chase it. He's not a goddamn animal.
+Aunt Pam is a vacuum cleaner now.
+She sucks up the stuffing and says it's dry as shit.
+The gravy boat sets sail.
+It's last seen near Cuba.
+Gary shows up uninvited with a bag of ice.
+Just ice. On Thanksgiving, Gary?
+The turkey says grace.
+It's forty minutes long, and it's mostly about Dale.
+Dale says, that's some passive-aggressive bullshit, turkey.
+The pie is the only one on Dale's side.
+The pie gets eaten. Rest in peace.
+The turkey takes all the leftovers, the greedy bitch.
+Dale swears he's never doing this again.
+Next November, his phone rings.
+Dale is hosting Thanksgiving...
