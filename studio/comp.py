@@ -20,7 +20,7 @@ def sfx_cha():
 LIB = "/home/claude/deadhead-dale/sfx"
 # SFX level relative to the voice (Bill, 2026-11-25: SFX were way too loud). A cue at gain 1.0 sits
 # SFX_DB below the voice's speaking level; cue gains are capped at 1.0 and SFX duck further under speech.
-SFX_DB = -14.0; SFX_DUCK = 0.5
+SFX_DB = -8.0; SFX_DUCK = 0.7
 def _loud(a, w=int(0.4 * 44100)):
     if len(a) < w: return float(np.sqrt((a ** 2).mean()))
     return float(np.sqrt(np.convolve(a ** 2, np.ones(w) / w, "valid").max()))
