@@ -208,3 +208,56 @@ The turkey takes all the leftovers, the greedy bitch.
 Dale swears he's never doing this again.
 Next November, his phone rings.
 Dale is hosting Thanksgiving...
+
+## 2026-11-25-B — Memory Foam
+status: approved
+script:
+Dale buys a new mattress.
+The salesman is a ferret in a vest.
+The ferret says, lie down on it, I won't look.
+The ferret looks.
+The mattress has memory foam.
+It remembers everything.
+It remembers 1997, and it is not over it.
+Dale says, what the hell happened in 1997?
+The mattress won't talk about it.
+At night, the mattress hums show tunes.
+Dale's pillow files a noise complaint.
+The landlord is a ceiling fan, and he doesn't give a shit.
+The fan just spins. Always has.
+Dale sleeps on the floor.
+The floor charges him rent, the greedy bastard.
+The mattress gets a girlfriend. She's a futon from Phoenix.
+They are loud as fuck.
+Dale moves into his truck.
+The truck says, back so soon, bitch?
+The ferret calls. There's a thirty-day return policy.
+It's day thirty-one.
+So Dale goes back to the store.
+Dale buys a new mattress...
+
+## 2026-11-25-C — League Night
+status: approved
+script:
+Dale goes bowling.
+He rents the shoes.
+The shoes are still warm, and they want to talk about it.
+Dale says, absolutely not, shoes.
+The ball has three holes, and something lives in the middle one.
+It's a hermit crab named Doug.
+Doug says, throw me and I'll fucking end you.
+Dale throws Doug anyway.
+Strike.
+The pins all quit and go home to their families.
+The pinsetter machine has to bowl now.
+It's terrible at it, the poor son of a bitch.
+A goose on the next lane is wearing Dale's league shirt.
+It says DALE on the back, spelled right, and that's the worst part.
+The disco lights come on, and the whole bowling alley floats off the ground.
+Nobody gets their shoes back.
+Dale's score is negative forty, which is bullshit.
+Doug moves out and takes the ball with him.
+The nachos are the only thing that stays normal.
+Dale respects the hell out of those nachos.
+Next Thursday, the league calls.
+Dale goes bowling...

@@ -29,3 +29,5 @@ Instagram: @deadhead.dale (Metricool brand/blogId 8301887). Owner: Bill. Post 2 
 9. Log the episode in EPISODES.md (number, title, script gist, post time) so jokes don't repeat.
 
 SFX library (sfx/*.wav): honk, flock, crash, cha, ding, buzz, whoosh, chomp, ring, burp, horn, siren, party, grind, picfall, sob.
+- Since 2026-11-25 these are real ElevenLabs sound effects (eleven_text_to_sound_v3, flow 9QreWG26oQ6nGnhLBqxE); the old synth set is kept in sfx/v1_synth/.
+- SFX volume (Bill, 2026-11-25: they were "super loud"): comp.mix loudness-matches every cue to SFX_DB = -14 dB under the voice, caps cue gains at 1.0, and ducks SFX a further 6 dB while Dale talks. Keep SFX in the background; don't raise SFX_DB without Bill asking. To add a new effect, generate it with ElevenLabs (1 take), trim silence, save as sfx/<name>.wav and add the name to comp.LIBNAMES.

@@ -18,11 +18,20 @@ def sfx_cha():
     n = int(0.6 * SR); t = np.arange(n) / SR
     return 0.25 * (np.sin(2*np.pi*2637*t) + np.sin(2*np.pi*3520*t)) * np.exp(-t / 0.15)
 LIB = "/home/claude/deadhead-dale/sfx"
+# SFX level relative to the voice (Bill, 2026-11-25: SFX were way too loud). A cue at gain 1.0 sits
+# SFX_DB below the voice's speaking level; cue gains are capped at 1.0 and SFX duck further under speech.
+SFX_DB = -14.0; SFX_DUCK = 0.5
+def _loud(a, w=int(0.4 * 44100)):
+    if len(a) < w: return float(np.sqrt((a ** 2).mean()))
+    return float(np.sqrt(np.convolve(a ** 2, np.ones(w) / w, "valid").max()))
+def _speech_level(v, w=int(0.4 * 44100)):
+    c = np.sqrt(np.convolve(v ** 2, np.ones(w) / w, "valid")); return float(np.sqrt((c[c > c.max() * 0.3] ** 2).mean()))
 _lib = {}
 def lib(name, maxdur=2.2):
     if name not in _lib:
         a = read_wav(f"{LIB}/{name}.wav")
-        a = a / (np.abs(a).max() + 1e-6) * 0.6
+        a = a - a.mean()
+        a = a / (_loud(a) + 1e-6) * 0.1   # loudness-normalize (loudest 0.4 s window -> RMS 0.1), not peak
         L = int(maxdur * SR)
         if len(a) > L:
             a = a[:L].copy(); fade = int(0.3 * SR); a[-fade:] *= np.linspace(1, 0, fade)
@@ -36,14 +45,8 @@ def read_wav(path):
     a = subprocess.run(["ffmpeg", "-v", "error", "-i", path, "-f", "s16le", "-ac", "1", "-ar", str(SR), "-"], capture_output=True).stdout
     return np.frombuffer(a, dtype=np.int16).astype(np.float32) / 32768
 
-def compose(plan_path, frames_dir, voice, out, sfx_map, cap_y=1220, music_gain=0.10, sfx_gain=0.7, cap_pops=False, hold_last=0):
-    P = json.load(open(plan_path))
-    shots = P["shots"]; total_frames = sum(s["n"] for s in shots)
-    T = total_frames / FPS
-    caps = []
-    for s, (a, b) in zip(P["S"], P["segs"]):
-        caps += chunks(s, a, b)
-    # audio
+def mix(shots, voice, T, sfx_map, caps=(), music_gain=0.10, sfx_gain=1.0, cap_pops=False):
+    """Voice + ducked music + loudness-matched, ducked SFX. Returns float32 mono at SR (unnormalized)."""
     v = read_wav(voice)
     n = int(T * SR); audio = np.zeros(n, np.float32)
     audio[:min(n, len(v))] += 1.15 * v[:n]
@@ -53,14 +56,30 @@ def compose(plan_path, frames_dir, voice, out, sfx_map, cap_y=1220, music_gain=0
     k = int(0.15 * SR); env = np.convolve(env, np.ones(k) / k, mode="same")
     duck = 1.0 - 0.6 * np.clip(env / (env.max() * 0.25 + 1e-6), 0, 1)
     audio += (mus * duck).astype(np.float32)
+    # SFX: each clip loudness-matched to SFX_DB under the voice, then ducked while Dale is talking
+    vref = _speech_level(1.15 * v) * 10 ** (SFX_DB / 20)
+    fx = np.zeros(n, np.float32)
     for s in shots:
         for frac, kind, *g in sfx_map.get(s["name"], []):
             t0 = (s["f0"] + frac * s["n"]) / FPS
-            clip = (lib(kind) if kind in LIBNAMES else SFX_SYN[kind]()) * (g[0] if g else 1.0) * sfx_gain; a0 = int(t0 * SR); e = min(n, a0 + len(clip))
-            if a0 < n: audio[a0:e] += clip[:e - a0].astype(np.float32)
+            raw = lib(kind) if kind in LIBNAMES else SFX_SYN[kind]()
+            clip = raw / (_loud(raw) + 1e-6) * vref * min(1.0, g[0] if g else 1.0) * sfx_gain; a0 = int(t0 * SR); e = min(n, a0 + len(clip))
+            if a0 < n: fx[a0:e] += clip[:e - a0].astype(np.float32)
+    talk = np.clip(env / (env.max() * 0.25 + 1e-6), 0, 1)
+    audio += fx * (1.0 - (1.0 - SFX_DUCK) * talk).astype(np.float32)
     for t0, *_ in (caps if cap_pops else []):
         clip = E.sfx_pop() * 0.35; a0 = int(t0 * SR); e = min(n, a0 + len(clip))
         if a0 < n: audio[a0:e] += clip[:e - a0].astype(np.float32)
+    return audio
+
+def compose(plan_path, frames_dir, voice, out, sfx_map, cap_y=1220, music_gain=0.10, sfx_gain=1.0, cap_pops=False, hold_last=0):
+    P = json.load(open(plan_path))
+    shots = P["shots"]; total_frames = sum(s["n"] for s in shots)
+    T = total_frames / FPS
+    caps = []
+    for s, (a, b) in zip(P["S"], P["segs"]):
+        caps += chunks(s, a, b)
+    audio = mix(shots, voice, T, sfx_map, caps, music_gain, sfx_gain, cap_pops)
     audio = audio / max(1.0, np.abs(audio).max() / 0.95)
     wav = out.replace(".mp4", ".wav")
     with wave.open(wav, "wb") as wf:
