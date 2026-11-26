@@ -237,7 +237,7 @@ So Dale goes back to the store.
 Dale buys a new mattress...
 
 ## 2026-11-25-C — League Night
-status: approved
+status: scheduled 2026-11-28 18:00 CT (episode 13)
 script:
 Dale goes bowling.
 He rents the shoes.
