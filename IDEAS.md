@@ -683,3 +683,116 @@ They land in Dale's driveway. The neighbors are pissed they weren't invited.
 Ron's warranty is void, and he does not give a shit.
 Next November, Dale walks into the hardware store.
 Dale buys a turkey fryer...
+
+## Batch 2026-11-26 (daily batch — ids F–J because A–E were used by the extra Thanksgiving batch)
+
+### 2026-11-26-F — The Post Office (errand gone wrong, geese)
+Dale needs to mail one box to his brother in Arizona.
+The line at the post office goes out the door and around a goddamn lake.
+At the front of the line, a goose is mailing another goose.
+The clerk asks, anything fragile? The goose in the box says, fuck you, Harold.
+Dale's box is a toaster, because his brother burns everything, the dumb bastard.
+The postal lady weighs it and says, that'll be four hundred dollars, sweetheart.
+Dale says, for a toaster? Are you shitting me?
+She says it's going by eagle.
+An eagle walks in wearing a little vest, the cocky son of a bitch from the stamp.
+Dale blinks, and he's the stamp now. Licked and everything.
+He rides across the whole damn country, stuck to his own toaster.
+Over Kansas, the eagle starts telling him about its divorce.
+It's a long goddamn story. She got the nest.
+They land in Arizona, and his brother says, why the hell are you a stamp?
+Dale says, don't start, Randy.
+Randy peels him off, and it hurts like a bitch.
+The toaster moves in with Randy, and Dale's not invited to the wedding.
+Dale walks home from Arizona like a dumbass.
+In his garage, there's another box with Randy's name on it.
+Dale needs to mail one box to his brother in Arizona...
+
+### 2026-11-26-G — The Lid (very random, objects with lives)
+Dale has leftovers and forty Tupperware lids.
+None of them fit a single goddamn container.
+He tries every lid, and the lids start laughing at him.
+One lid says, we're not for you, Dale. We were never for you.
+Dale says, then who the fuck are you for?
+The lid whispers, the Container.
+In the back of the cabinet is one container nobody's seen since 1994.
+It has a beard.
+It says, go ahead, Dale, look inside, you chickenshit.
+Inside is a tiny Las Vegas, and everybody's drunk as shit.
+Dale goes in for one minute and stays three weeks.
+He marries a meatball named Denise. It's a mistake, and he knows it.
+He loses his truck to a crouton at blackjack, the cheating little bastard.
+Denise takes the kids. They're also meatballs.
+Dale climbs out with nothing but his cap and a hell of a story.
+The bearded container says, told you, asshole.
+Dale puts the turkey in a sandwich bag like a goddamn adult.
+The bag says thank you, and nobody has ever said that to Dale.
+The mustard says, get your shit together, Dale.
+Next day, there's more leftovers.
+Dale has leftovers and forty Tupperware lids...
+
+### 2026-11-26-H — Channel Nineteen (trucking, random)
+Dale's CB radio crackles at two in the morning.
+A voice says, breaker breaker, this is Big Wanda, you got your ears on, asshole?
+Dale says, go ahead, Wanda.
+Wanda says there's a bear at mile marker ninety.
+At mile marker ninety, there's an actual bear running a goddamn speed trap.
+The bear clocks Dale at sixty-six and says, that's a ticket, dipshit.
+Dale says, you're a bear. The bear says, and you're fat. We all got problems.
+Dale asks Wanda who the hell she is.
+Wanda says, look up, Dale.
+Wanda is the water tower in the middle of Oklahoma, and she's been watching truckers since 1961, the nosy bitch.
+She knows everything. She knows what Dale did in that truck stop bathroom.
+She says, that was disgusting, Dale. Dale says, it was an emergency, Wanda.
+Every water tower in America gets on channel nineteen to talk shit about him.
+Even the little ones in Kansas. Those fuckers are the worst.
+Dale throws the CB out the window.
+It lands in a cornfield, and a scarecrow picks it up.
+The scarecrow says, ten-four, good buddy, and his whole damn life finally makes sense.
+Dale drives six hundred miles in silence, and it's goddamn beautiful.
+Then a new CB radio grows out of his dashboard like a mushroom. Son of a bitch.
+Dale's CB radio crackles at two in the morning...
+
+### 2026-11-26-I — Hiccups (very random, goose + Gary callback)
+Dale has the hiccups.
+Every time he hiccups, he teleports somewhere, which is bullshit.
+Hic. He's in a dentist's chair in Portugal, and the dentist says, open up, asshole.
+Hic. He's in a submarine, and the captain is a lobster who's pissed the fuck off about it.
+Hic. He's home, but his house is facing the wrong goddamn way.
+His neighbor says, hold your breath, dumbass.
+Dale holds it nine minutes and turns into a grape.
+Hic. He's a grape at a wine tasting, and nobody can know.
+A goose in a tuxedo swirls him around and says, oaky. Hints of trucker. Smells like shit.
+Dale hiccups out of the glass and lands at his own funeral.
+Everybody's there. Gary brought ice again, the cheap bastard.
+The priest says Dale was a hell of a guy, mostly mustache.
+Dale sits up in the casket and says, I'm right here, you dumb sons of bitches.
+Nobody's happy. They already ate the ham.
+Grandma says a scare fixes hiccups, so everybody screams at Dale at once.
+It's the worst shit he's ever heard, and it works.
+Now Dale is alive at his own funeral, with no ride home.
+Gary offers him some ice.
+Dale says, Gary, I swear to God. Then: hic.
+Dale has the hiccups...
+
+### 2026-11-26-J — Jump Start (errand gone wrong, Gary + geese)
+Gary's car won't start, and he needs a jump.
+Gary knocks on Dale's door at five in the morning like a goddamn psycho.
+Dale pulls the semi around, because that's what he's got.
+He clamps the jumper cables on Gary's little Honda.
+Gary says, careful, she's sensitive. Dale says, it's a car, Gary, shut the fuck up.
+Dale revs the semi, and the Honda wakes up screaming.
+Now it's got eighty thousand pounds of power and a shitty attitude.
+It backflips off the driveway and calls Gary a bitch.
+Then it opens its hood, says I'm free, and flies south with the geese.
+The geese don't give a damn. They've seen worse shit.
+Gary chases it down the street in his bathrobe.
+Dale's semi says, hey, I feel weird. The cables went both ways.
+Now the semi wants to be a Honda, and it says sorry after every goddamn thing.
+Dale says, don't you fucking dare.
+The semi gets an honor student bumper sticker. It doesn't have a kid.
+Gary comes back three days later, after walking to Mexico in a bathrobe, the stubborn asshole.
+He says the Honda's happy now. She has a family. They're all scooters.
+Dale pours him a coffee, and Gary cries into it like a little bitch.
+Next morning, Gary buys a new car, and it doesn't start either.
+Gary's car won't start, and he needs a jump...
