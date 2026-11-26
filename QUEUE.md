@@ -182,3 +182,29 @@ Twelve million viewers.
 The window wins an Emmy, the bitch.
 The next morning, the anchor quits.
 Dale is the weather man now...
+
+## 2026-11-25-E — Thanksgiving
+status: approved
+script:
+Dale is hosting Thanksgiving.
+Nobody asked him to.
+The turkey shows up alive, holding a casserole.
+The turkey says, I'm a guest, asshole.
+Dale sets another plate.
+The cranberry sauce slides out of the can in one piece and walks away.
+Dale doesn't chase it. He's not a goddamn animal.
+Aunt Pam is a vacuum cleaner now.
+She sucks up the stuffing and says it's dry as shit.
+The gravy boat sets sail.
+It's last seen near Cuba.
+Gary shows up uninvited with a bag of ice.
+Just ice. On Thanksgiving, Gary?
+The turkey says grace.
+It's forty minutes long, and it's mostly about Dale.
+Dale says, that's some passive-aggressive bullshit, turkey.
+The pie is the only one on Dale's side.
+The pie gets eaten. Rest in peace.
+The turkey takes all the leftovers, the greedy bitch.
+Dale swears he's never doing this again.
+Next November, his phone rings.
+Dale is hosting Thanksgiving...
