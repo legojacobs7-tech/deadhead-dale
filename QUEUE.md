@@ -110,7 +110,7 @@ Best goddamn one he's ever had.
 Dale's microwave beeps...
 
 ## 2026-11-24-A — Tuesday
-status: scheduled 2026-11-26 10:00 CT (episode 8)
+status: scheduled 2026-11-27 18:00 CT (episode 8)
 script:
 Dale wakes up.
 It's Tuesday.
@@ -184,7 +184,7 @@ The next morning, the anchor quits.
 Dale is the weather man now...
 
 ## 2026-11-25-E — Thanksgiving
-status: approved
+status: scheduled 2026-11-26 10:00 CT (episode 11)
 script:
 Dale is hosting Thanksgiving.
 Nobody asked him to.
