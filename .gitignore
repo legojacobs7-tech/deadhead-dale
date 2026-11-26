@@ -6,3 +6,4 @@ studio/*.wav
 studio/*_plan.json
 studio/__pycache__/
 *.log
+videos/*.wav
