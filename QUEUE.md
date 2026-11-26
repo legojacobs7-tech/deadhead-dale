@@ -261,3 +261,29 @@ The nachos are the only thing that stays normal.
 Dale respects the hell out of those nachos.
 Next Thursday, the league calls.
 Dale goes bowling...
+
+## 2026-11-26-D — The Parade Balloon
+status: scheduled 2026-11-26 18:00 CT (episode 14; Bill picked it 11-26 for the 6 PM slot, Gas Station Sushi moved to 11-29 10:00; swears added per Bill, 6 clean lines cut for length)
+script:
+Dale takes a shortcut through the Thanksgiving parade.
+That's illegal as shit, but so is most of Dale.
+His truck snags the giant balloon.
+It's a big inflatable fucking hot dog.
+The hot dog lifts the whole goddamn truck off the street.
+The marching band follows him, because the dumbasses think he's in charge.
+Nobody knows who the hell Dale is.
+A pigeon lands on the windshield and asks for license and registration.
+It's a cop pigeon, the little bastard.
+The pigeon writes him a ticket for flying a hot dog without a permit, which is bullshit.
+New Jersey flips him off.
+Santa's float catches up and calls Dale an asshole.
+Dale calls Santa a fat fraud.
+Shit gets heated as fuck.
+The hot dog pops.
+Dale lands on a roof in Delaware, right in the middle of somebody's goddamn dinner.
+Their grandpa is a deflated balloon on the couch.
+He's doing fine, the old son of a bitch.
+Dale eats, says thank you, and walks home to Texas.
+It takes eleven months, and his feet are pissed the fuck off.
+Next November, he's late as hell.
+Dale takes a shortcut through the Thanksgiving parade...
