@@ -16,6 +16,11 @@ Instagram: @deadhead.dale, TikTok: @deadhead_dale, YouTube channel UCo6C8Hw84NQG
 - Production: the nightly run fills the next two free slots (10:00 / 18:00 CT) with the first `approved` items in QUEUE.md, in order. Never invent and post a script Bill didn't pick. If the queue is empty, schedule nothing.
 - Episodes 1 and 2 are skipped; studio/ep1.py and ep2.py stay only as code examples.
 
+## Learning from the numbers (Bill, 2026-11-25)
+- LEARNINGS.md is the learning log: scoreboard per episode per platform, lessons with confidence, "Rules in force", experiments.
+- The daily stats run (7:37 AM CT) pulls Metricool numbers for IG, TikTok and YouTube, updates LEARNINGS.md and pushes it.
+- The ideas run and the production run read LEARNINGS.md first and apply its "Rules in force". Bill's rules here always win; if the data disagrees with Bill, tell him rather than overriding him.
+
 ## Pipeline (all paths absolute under /home/claude/deadhead-dale)
 1. `pip install --break-system-packages bpy` (Blender as a module; Workbench renderer, ~1 s/frame on 2 CPUs).
 2. Voice: generate via ElevenLabs connector, download content_url mp3 with curl, then
