@@ -210,7 +210,7 @@ Next November, his phone rings.
 Dale is hosting Thanksgiving...
 
 ## 2026-11-25-B — Memory Foam
-status: approved
+status: scheduled 2026-11-28 10:00 CT (episode 12)
 script:
 Dale buys a new mattress.
 The salesman is a ferret in a vest.
