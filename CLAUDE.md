@@ -1,6 +1,6 @@
 # Deadhead Dale — daily Reel studio
 
-Instagram: @deadhead.dale, TikTok: @deadhead_dale, YouTube channel UCo6C8Hw84NQGz8xXAdAnptA — all on Metricool brand/blogId 8301887 (TikTok + YouTube added 2026-11-25). Owner: Bill. Post 2 Reels/day at 10:00 AM and 6:00 PM America/Chicago (since 2026-11-24).
+Instagram: @deadhead.dale, TikTok: @deadhead_dale, YouTube channel UCo6C8Hw84NQGz8xXAdAnptA, Facebook Page "Deadhead Dale" (1489151724286056) — all on Metricool brand/blogId 8301887 (TikTok, YouTube, Facebook added 2026-11-25). Owner: Bill. Post 2 Reels/day at 10:00 AM and 6:00 PM America/Chicago (since 2026-11-24).
 
 ## Format
 - Deadpan absurd comedy, low-poly 3D, like @semigenius. Star: Dale (trucker, red DALE cap, mustache, plaid, belly).
@@ -18,7 +18,7 @@ Instagram: @deadhead.dale, TikTok: @deadhead_dale, YouTube channel UCo6C8Hw84NQG
 
 ## Learning from the numbers (Bill, 2026-11-25)
 - LEARNINGS.md is the learning log: scoreboard per episode per platform, lessons with confidence, "Rules in force", experiments.
-- The daily stats run (7:37 AM CT) pulls Metricool numbers for IG, TikTok and YouTube, updates LEARNINGS.md and pushes it.
+- The daily stats run (7:37 AM CT) pulls Metricool numbers for IG, TikTok, YouTube and Facebook, updates LEARNINGS.md and pushes it.
 - The ideas run and the production run read LEARNINGS.md first and apply its "Rules in force". Bill's rules here always win; if the data disagrees with Bill, tell him rather than overriding him.
 
 ## Pipeline (all paths absolute under /home/claude/deadhead-dale)
@@ -30,9 +30,10 @@ Instagram: @deadhead.dale, TikTok: @deadhead_dale, YouTube channel UCo6C8Hw84NQG
 5. `python3 plan.py epN voices/epN.wav epN epN_plan.json`; render `./runall.sh epN epN_plan.json /home/claude/deadhead-dale/studio/epN` (2 workers). Keep the turn alive while rendering (background jobs die after the reply ends).
 6. Compose: `python3 -c "import comp, epN; comp.compose('epN_plan.json','epN','../voices/epN.wav','../videos/epNNN_slug.mp4', epN.SFX)"`
 7. Commit + push video to main. Public URL: https://raw.githubusercontent.com/legojacobs7-tech/deadhead-dale/main/videos/<file>.mp4
-8. Schedule with Metricool createScheduledPost to ALL THREE networks in one post: providers instagram + tiktok + youtube, media=[raw URL], next free 10:00/18:00 America/Chicago slot.
+8. Schedule with Metricool createScheduledPost to ALL FOUR networks in one post: providers instagram + tiktok + youtube + facebook, media=[raw URL], next free 10:00/18:00 America/Chicago slot.
    - instagramData {type REEL, showReelOnFeed true, isAiGenerated true}
    - tiktokData {title (required, short hook + emoji), privacyOption PUBLIC_TO_EVERYONE, isAigc true}
+   - facebookData {type REEL, title "<Hook In Title Case>"}
    - youtubeData {type short, title "<Hook In Title Case> #shorts", privacy public, category COMEDY, madeForKids false, tags [deadhead dale, ...]}
    - Keep the caption itself clean of swears (platform reach); swearing lives in the video.
 9. Log the episode in EPISODES.md (number, title, script gist, post time) so jokes don't repeat.
