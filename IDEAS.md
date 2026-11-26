@@ -570,3 +570,116 @@ The turkey takes all the leftovers, the greedy bitch.
 Dale swears he's never doing this again.
 Next November, his phone rings.
 Dale is hosting Thanksgiving...
+
+## 2026-11-26 — extra Thanksgiving batch (Bill asked for another Thanksgiving video, possibly for tonight's 18:00 slot)
+
+### 2026-11-26-A — Black Friday Line (errand, geese)
+Dale needs one TV.
+Black Friday doesn't start until midnight, so Dale gets in line at noon on Thanksgiving.
+The guy in front of him is a goose in a camping chair.
+The goose has been there since Tuesday, the smug son of a bitch.
+Behind Dale is a grandma with a crossbow. For the deals.
+Dale eats Thanksgiving dinner out of a thermos.
+It's all mashed potatoes. Even the turkey.
+At nine o'clock, the store's front door grows a face and starts calling out names.
+It does not call Dale.
+At midnight the doors open, and everybody runs in screaming like it's the goddamn apocalypse.
+The TVs run away from the shoppers and hide in the lawn furniture.
+Dale finds one behind a patio umbrella. It's crying.
+It says, please, I don't want to watch your shit.
+Dale lets it go. He's not a monster.
+The grandma shoots the clearance sign.
+The goose buys forty microwaves and won't say why.
+Dale goes home with one AA battery and a bruise shaped like Ohio.
+His old TV is still on the wall, watching him.
+It says, you went out to replace me, didn't you, asshole?
+Dale says, no.
+Dale needs one TV...
+
+### 2026-11-26-B — The Kids' Table (family, random)
+Dale is fifty-four years old.
+He still sits at the kids' table on Thanksgiving.
+The kids' table is in the garage, next to the lawnmower.
+His cousin Brayden is seven and already has a mortgage.
+Brayden says, pass the goddamn rolls, Dale.
+One of the rolls is an actual rock. Nobody knows which one.
+The lawnmower starts eating with them. Nobody stops it.
+Dale asks to move up to the grown-up table.
+Grandma says he has to pass a test first.
+The test is in Latin. Dale fails it in English too.
+The garage door opens by itself, and there's a whole second Thanksgiving in the driveway, run by raccoons.
+The raccoons have better gravy. Dale's not proud of this.
+A raccoon gives a toast about Dale's dad, and it's fucking beautiful.
+Brayden cries into his mortgage paperwork.
+Dale sneaks a look at the grown-up table.
+It's just Uncle Ray, staring at a fax machine, pissed off for no reason.
+Dale goes back to the garage on his own.
+The lawnmower saved him a seat.
+A year goes by, and somehow Dale is still fifty-four...
+
+### 2026-11-26-C — Forty Thousand Turkeys (trucking)
+Dale is hauling forty thousand frozen turkeys to Ohio.
+They have to be there by Thanksgiving morning.
+The reefer unit dies outside of Tulsa.
+The turkeys start to thaw. Then they start to talk.
+They elect a turkey named Linda as their leader.
+Linda says, pull over, asshole, we have demands.
+Demand one: they want to see the ocean.
+Demand two: nobody gets stuffed. In any way, Dale.
+Dale says, I have a goddamn delivery window.
+Linda knocks on the cab wall forty thousand times.
+The truck takes a wrong exit and drives straight into 1987.
+Gas is ninety cents, and the turkeys love it.
+One turkey gets a mullet and refuses to leave.
+Dale calls dispatch from a pay phone. The dispatcher is also a turkey now.
+The dispatcher says, Dale, you're late as shit.
+They make it to the ocean. It's Lake Erie. Nobody tells the turkeys.
+The turkeys swim to Canada.
+Dale delivers forty thousand empty boxes.
+The receiver signs for them anyway, the lazy bastard.
+Back at the yard, a new load is waiting.
+Dale is hauling forty thousand frozen turkeys to Ohio...
+
+### 2026-11-26-D — The Parade Balloon (trucking, random)
+Dale takes a shortcut through the Thanksgiving parade.
+That's illegal, but so is most of Dale.
+His truck snags the giant balloon. It's an inflatable hot dog.
+The hot dog lifts the whole truck off the street.
+Now Dale is in the parade, two hundred feet up, against his will.
+The marching band follows him, because they think he's in charge.
+The news lady says, and here comes Dale. Nobody knows who the hell Dale is.
+A pigeon lands on the windshield and asks for license and registration. It's a cop pigeon.
+The registration is in the glovebox, with the other, smaller glovebox.
+The hot dog drifts over New Jersey. New Jersey does not wave.
+Santa's float catches up and calls Dale an asshole.
+Dale calls Santa a fraud. Things get heated.
+The hot dog pops.
+Dale lands on a roof in Delaware, right in the middle of somebody's dinner.
+The family sets a plate for him. No questions.
+Their grandpa is a deflated balloon on the couch. He's doing fine.
+Dale eats, says thank you, and walks home to Texas.
+It takes eleven months, and his feet are pissed.
+Next November, he's running late.
+Dale takes a shortcut through the Thanksgiving parade...
+
+### 2026-11-26-E — The Turkey Fryer (very random, objects with lives)
+Dale buys a turkey fryer.
+The box says do not use indoors. Dale takes that personally.
+The fryer's name is Ron.
+Ron says he always wanted to be a hot tub.
+Dale says, that's your business, Ron.
+Dale lowers the turkey in. The turkey is wearing goggles.
+The oil gets hot as hell.
+The whole kitchen lifts off like a rocket and lands on the moon.
+The moon is already doing Thanksgiving. It's mostly rocks.
+An astronaut has been up there since 1972. He says nobody called, the bastards.
+He brought a green bean casserole made of moon dust. It's not bad.
+Ron finally gets to be a hot tub. He's never been happier.
+Dale and the astronaut sit in Ron and watch the Earth.
+The turkey takes off its goggles and says, it's been an honor, gentlemen.
+Dale cries a little. The moon pretends not to see.
+They ride Ron home like a sled.
+They land in Dale's driveway. The neighbors are pissed they weren't invited.
+Ron's warranty is void, and he does not give a shit.
+Next November, Dale walks into the hardware store.
+Dale buys a turkey fryer...
