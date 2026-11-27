@@ -287,3 +287,48 @@ Dale eats, says thank you, and walks home to Texas.
 It takes eleven months, and his feet are pissed the fuck off.
 Next November, he's late as hell.
 Dale takes a shortcut through the Thanksgiving parade...
+
+## 2026-11-26-I — The Stampede
+status: scheduled 2026-11-27 10:00 CT (episode 15; Bill picked I + H for Black Friday; Weather Man moved to 11-29 18:00; two clean lines cut for length: sunset nature doc, loading them back crying)
+script:
+Dale is hauling eighty thousand flat-screen TVs for Black Friday.
+Outside Omaha, the trailer door pops open.
+The TVs get out. All of them.
+They stampede across Nebraska like goddamn buffalo.
+A rancher watches them go and says, well, shit.
+Dale chases the herd in his truck, yelling at TVs like an asshole.
+Every TV is playing the same mattress commercial, real fucking loud.
+The lead TV is seventy-five inches, and it's mean as hell.
+Dale names it Big Ron. Big Ron hates that, but fuck him.
+The herd stops in Kansas to graze on the Wi-Fi.
+Dale tries to lasso Big Ron with a phone charger.
+Wrong charger. It's always the wrong goddamn charger.
+A cowboy rides up on a lawn mower and offers to help for twenty bucks.
+He's useless as shit, but he has a great hat.
+He delivers seventy-nine thousand nine hundred and ninety-nine TVs.
+Big Ron is still out there, free, the beautiful bastard.
+Next Black Friday, the load is ready.
+Dale is hauling eighty thousand flat-screen TVs for Black Friday...
+
+## 2026-11-26-H — Register Four
+status: scheduled 2026-11-27 18:00 CT (episode 16; Tuesday moved to 11-30 10:00)
+script:
+Dale takes a seasonal job at the big box store.
+They put him on register four, which is cursed as shit.
+His first customer is a horse.
+The horse is returning a horse.
+No receipt, and the horse is being a real asshole about it.
+Dale gives him store credit. The horse wanted cash, the cheap bastard.
+The manager is a robot vacuum named Greg.
+Greg says, Dale, you're on thin goddamn ice.
+Greg runs into the wall forty times. Nobody says shit.
+A lady wants to price match a TV with a TV from 1983.
+Dale says yes. He doesn't give a fuck. He makes nine dollars an hour.
+The line goes out the door, across the parking lot, and into Arkansas.
+A goose in line has a coupon that expired in 2009.
+Dale honors it. The goose knows what it did.
+At midnight, Greg fires Dale for being way too goddamn helpful.
+Dale hands his vest to the horse.
+The horse is great at it, the son of a bitch.
+Next November, Dale needs some cash.
+Dale takes a seasonal job at the big box store...
