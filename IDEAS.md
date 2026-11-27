@@ -796,3 +796,108 @@ He says the Honda's happy now. She has a family. They're all scooters.
 Dale pours him a coffee, and Gary cries into it like a little bitch.
 Next morning, Gary buys a new car, and it doesn't start either.
 Gary's car won't start, and he needs a jump...
+
+## 2026-11-26 (evening) — Black Friday batch (Bill asked for Black Friday scripts for 11-27). 2026-11-26-A "Black Friday Line" is also still available.
+
+### 2026-11-26-F — Doorbuster
+Dale shows up at five a.m. for the doorbuster.
+He busts the goddamn door. That's what the sign said.
+The door is pissed the fuck off.
+The door says, I have a family, asshole.
+Dale says, take it up with fucking marketing.
+The door gets a goddamn lawyer.
+The lawyer is a revolving door, and he won't shut the hell up.
+Meanwhile, TVs are sixty percent off, and nobody gives a shit.
+The judge is a mall kiosk that sells phone cases.
+She's tired as hell and charges Dale for a screen protector.
+A goose testifies. It just honks and points at Dale, the lying bitch.
+Dale loses, obviously, because this shit is rigged.
+He owes the door forty dollars and a hinge.
+The door also gets Dale's TV.
+The door doesn't even have eyes, the greedy bastard.
+Dale walks home with a receipt for absolutely jack shit.
+Next November, the sign still says doorbuster.
+Dale shows up at five a.m. for the doorbuster...
+
+### 2026-11-26-G — The Last Air Fryer
+There's one air fryer left, and Dale and a grandma grab it at the same time.
+Neither one lets go, the stubborn sons of bitches.
+Grandma has a grip like a goddamn bear trap.
+The air fryer says, can you two not.
+It's been through some shit this year.
+It wants to talk about its feelings, and Dale does not have time for that crap.
+Security shows up. It's a Segway with nobody on it. It just beeps at them, the useless bastard.
+The air fryer calls its ex, the toaster.
+The toaster shows up with its whole damn cult.
+They chant about crumbs.
+Grandma joins the cult on the spot. She's always wanted a fucking hobby.
+Dale is left alone in aisle nine, holding the box.
+The box is empty. The air fryer left an hour ago, the slippery bitch.
+There's a note. It says, crisp yourself, Dale.
+Dale pays twelve ninety-nine for the empty box anyway.
+He's not proud of this shit.
+Next year, he goes back early.
+There's one air fryer left...
+
+### 2026-11-26-H — Register Four
+Dale takes a seasonal job at the big box store.
+They put him on register four, which is cursed as shit.
+His first customer is a horse.
+The horse is returning a horse.
+No receipt, and the horse is being a real asshole about it.
+Dale gives him store credit. The horse wanted cash, the cheap bastard.
+The manager is a robot vacuum named Greg.
+Greg says, Dale, you're on thin goddamn ice.
+Greg runs into the wall forty times. Nobody says shit.
+A lady wants to price match a TV with a TV from 1983.
+Dale says yes. He doesn't give a fuck. He makes nine dollars an hour.
+The line goes out the door, across the parking lot, and into Arkansas.
+A goose in line has a coupon that expired in 2009.
+Dale honors it. The goose knows what it did.
+At midnight, Greg fires Dale for being way too goddamn helpful.
+Dale hands his vest to the horse.
+The horse is great at it, the son of a bitch.
+Next November, Dale needs some cash.
+Dale takes a seasonal job at the big box store...
+
+### 2026-11-26-I — The Stampede (trucking)
+Dale is hauling eighty thousand flat-screen TVs for Black Friday.
+Outside Omaha, the trailer door pops open.
+The TVs get out. All of them.
+They stampede across Nebraska like goddamn buffalo.
+A rancher watches them go and says, well, shit.
+Dale chases the herd in his truck, yelling at TVs like an asshole.
+Every TV is playing the same mattress commercial, real fucking loud.
+The lead TV is seventy-five inches, and it's mean as hell.
+Dale names it Big Ron. Big Ron hates that, but fuck him.
+The herd stops in Kansas to graze on the Wi-Fi.
+Dale tries to lasso Big Ron with a phone charger.
+Wrong charger. It's always the wrong goddamn charger.
+A cowboy rides up on a lawn mower and offers to help for twenty bucks.
+He's useless as shit, but he has a great hat.
+By sunset, the TVs calm down and watch a nature documentary about themselves.
+Dale loads them back in one by one, crying a little.
+He delivers seventy-nine thousand nine hundred and ninety-nine TVs.
+Big Ron is still out there, free, the beautiful bastard.
+Next Black Friday, the load is ready.
+Dale is hauling eighty thousand flat-screen TVs for Black Friday...
+
+### 2026-11-26-J — Dale Is On Sale
+Dale wakes up in his sleeper cab.
+There's a sticker on the windshield that says forty percent off.
+Dale didn't put that shit there.
+A family is already kicking his tires.
+The dad asks if it has all-wheel drive. Dale says, get the fuck off my truck.
+The dad haggles anyway, the cheap son of a bitch.
+Now the steering wheel has a price tag. And the cup holder. And Dale.
+Dale is marked down to eleven dollars, which is bullshit. He's worth at least fifteen.
+A raccoon buys Dale with a gift card.
+The raccoon takes him home to a dumpster in Tulsa, and goddamn, it's nice in there.
+There's a hot tub made out of a pizza box.
+The raccoon introduces him to the kids as Uncle Dale.
+Dale doesn't hate it. That's what pisses him off.
+At midnight, Black Friday is over.
+The stickers fall off, and Dale is full price again.
+The raccoon can't afford him and cries his little ass off.
+Dale walks back to his truck and climbs into the sleeper.
+Dale wakes up in his sleeper cab...
