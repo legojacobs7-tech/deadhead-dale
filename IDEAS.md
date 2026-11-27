@@ -901,3 +901,124 @@ The stickers fall off, and Dale is full price again.
 The raccoon can't afford him and cries his little ass off.
 Dale walks back to his truck and climbs into the sleeper.
 Dale wakes up in his sleeper cab...
+
+## Batch 2026-11-27
+
+Shaped by LEARNINGS.md: One Screw (15 shares) and The Microwave (7) got shared because everybody has lived the premise and the caption named that person, so A, B, C and E start from everyday stuff. Weirdest swerve sits at ~45% of each script. Italic line = suggested caption share line (not voiced).
+
+### 2026-11-27-A — Christmas Lights (relatable, objects with lives)
+_Share line: Send this to someone who still hasn't untangled last year's lights._
+Dale pulls the Christmas lights out of the garage.
+It's one big ball, tangled to shit since 2009.
+He plugs it in, and one bulb is out, so the whole goddamn string is dead.
+The dead bulb is named Terry, and Terry is on strike.
+Terry wants dental, which is rich for a bulb with no fucking teeth.
+The other bulbs side with Terry, the disloyal little bastards.
+They picket the driveway with tiny signs.
+The neighbor's inflatable snowman leans over the fence and calls Dale a cheap son of a bitch.
+Dale stabs the snowman with a fork, and it flies off over Topeka, screaming.
+Now every inflatable on the street wants revenge. Santa, two reindeer, and a goddamn Grinch.
+They surround the house at midnight, humming.
+Dale negotiates. Terry gets dental and his own parking spot.
+Terry lights up, and so does every bulb, the brightest shit you've ever seen.
+The house is visible from space.
+NASA calls and tells Dale to turn that crap down.
+A plane lands in his yard because it thought he was the airport.
+The pilot stays for Christmas. Nobody invited his ass.
+In January, Dale rips it all off the house and shoves it in one box.
+He doesn't wind it. Fuck winding it.
+Dale pulls the Christmas lights out of the garage...
+
+### 2026-11-27-B — Forgot Password (relatable, Gary + goose callback)
+_Share line: Send this to someone who resets their password every single time._
+Dale forgot his password.
+He clicks forgot password, like a goddamn caveman.
+The new one needs a capital letter, a number, and a symbol.
+Dale types fuck you, with a capital F.
+Too weak. The computer says it's seen better shit from a hamster.
+Then it tells him to click every square with a bus.
+One square is just Gary, waving. Is Gary a bus? Dale doesn't fucking know.
+He clicks Gary. Wrong. The computer says Gary is a fire hydrant, dumbass.
+Dale gets sucked into the screen and lands inside the internet.
+It's a big damp cave full of cookies, and every damn one of them wants his permission.
+A pop-up chases him yelling hot singles in your area. It's a goose.
+The goose is always in his area. That's the goddamn problem.
+At the bottom of the cave, a turtle in a bathrobe sits on every password ever.
+The turtle reads Dale's old password out loud. Dale one two three.
+The whole internet laughs its ass off.
+Dale asks for it back. The turtle says, answer your security question.
+Name of your first pet. Dale never had a pet. He had a hubcap named Steve.
+The turtle says, correct, you sad son of a bitch.
+Dale gets spit back out of the screen, logged in.
+He sets a new password and forgets it before his finger leaves the goddamn key.
+Dale forgot his password...
+
+### 2026-11-27-C — The Junk Drawer (relatable, screw callback)
+_Share line: Send this to someone whose junk drawer has forty soy sauce packets and zero pens._
+Dale needs a pen, so he opens the junk drawer.
+There's no pen. There's never a goddamn pen.
+There's forty soy sauce packets, a key to nothing, and a half-dead battery that's real pissy about it.
+The battery says, don't you fucking lick me, Dale.
+Dale reaches in deeper. His arm goes in up to the shoulder.
+The drawer is bigger on the inside, which is some bullshit for a kitchen.
+Dale climbs in.
+Down there it's a whole town, and the mayor is a twist tie, the crooked little bastard.
+The soy sauce packets are at war with the ketchup packets, and it's been going since 1994.
+Dale gets drafted. They hand him a takeout menu for a shield.
+A fortune cookie tells him he'll find what he seeks. It's lying its ass off.
+Behind the front line is a door, and behind the door is every Allen wrench he ever lost.
+The one screw from the hardware store is in there too.
+It says, hey asshole, you never called.
+They crown Dale king with a bread clip.
+He rules for three days, eats nothing but soy sauce, and gets a sodium headache like a son of a bitch.
+The drawer coughs him back out onto the kitchen floor.
+He's holding a pen.
+It doesn't work, the useless piece of shit.
+He throws it back in the junk drawer, where it belongs.
+Dale needs a pen, so he opens the junk drawer...
+
+### 2026-11-27-D — Recalculating (trucking, very random)
+_Share line: Tag someone who would follow the GPS straight into a lake._
+Dale's GPS says, in four hundred feet, turn left.
+There's no left. There's a goddamn cornfield.
+Dale turns anyway, because you don't argue with Linda.
+Linda is the GPS lady, and she's been in a shit mood since Ohio.
+The corn is twelve feet tall and it's whispering about him.
+Linda says, recalculating, in a tone.
+Dale says, don't you fucking recalculate at me, Linda.
+She sends him straight through a lake. The truck floats. Linda says that's on him.
+On the other side of the lake it's 1987, and Dale's mustache is brand new and full of hope.
+Young Dale is hitchhiking on the shoulder. Old Dale doesn't stop. He knows that asshole.
+A moose at a toll booth charges him one dollar and one secret.
+Dale admits he cried at a car commercial. The moose says, that's weak shit, but lets him through.
+Linda says, make a U-turn wherever the hell you want.
+He makes it on the moon.
+The moon is just more cornfield, which is goddamn disappointing.
+Linda finally admits she doesn't know where Wichita is. She never did.
+She's been guessing since 2011, the lying sack of shit.
+Dale pulls over and buys a paper map at a gas station.
+He unfolds it, and it's just a picture of Linda.
+Dale's GPS says, in four hundred feet, turn left...
+
+### 2026-11-27-E — On Hold (relatable, goose callback)
+_Share line: Send this to someone who has been on hold with the cable company since Tuesday._
+Dale calls the cable company.
+Press one for billing. Press two to cry. Dale presses the shit out of both.
+The hold music is one saxophone, playing the same eight goddamn seconds.
+The robot says, your call is very important to us. It's lying its ass off.
+Hour three. Dale's beard grows past the mustache.
+Hour nine. A flock of geese migrates through his kitchen.
+One goose asks, you still on hold? Dale says, mind your own fucking business.
+The saxophone guy climbs out of the phone. He's four inches tall and smells like a bus.
+His name is Ronnie, and he's been stuck in hold music since 1996.
+Ronnie wants to go home, but he doesn't know where the hell home is.
+Dale drives him to Minneapolis, and Ronnie plays the eight seconds the whole damn way.
+Dale throws the phone out the window. It keeps holding.
+Ronnie's family lives in a mailbox in Minneapolis. All tiny. All saxophones.
+They play the eight seconds together, and Dale cries like a little bitch.
+Back home, a lady finally picks up and says, thank you for holding.
+Dale says, I want to cancel. She says, sure, let me transfer you.
+Dale says, don't you goddamn dare.
+Saxophone.
+Six months later, the bill is double.
+Dale calls the cable company...
