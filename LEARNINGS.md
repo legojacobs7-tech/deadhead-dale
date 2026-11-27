@@ -34,6 +34,8 @@ so ages below are real ages but the numbers are from the 11-25 sync. The Microwa
 | 3 | One Screw (catch-up) | story, geese | 61 s | 11-26 14:00 | TT/YT/FB | — | — | — | — | — | — | — | — | — | not posted yet |
 | 9 | Gas Station Sushi | very random, trucking | — | 11-26 18:00 | IG/TT/YT/FB | — | — | — | — | — | — | — | — | — | not posted yet |
 
+**Bill's own check, 11-26 evening (first day on the new platforms; not from Metricool):** TikTok: all 3 posts (Thanksgiving, One Screw, Parade Balloon) over 700 views each within hours. YouTube: one Short over 1,000 views. Facebook: lagging. For comparison, Instagram reels reach ~1,200–1,600 after 2–3 days, so TikTok and YouTube look at least as strong per post on day one. Confirm with Metricool at 48 h before turning this into a lesson.
+
 ### Followers
 
 | Date | IG | TikTok | YouTube subs | FB Page | Note |
@@ -78,3 +80,4 @@ so ages below are real ages but the numbers are from the 11-25 sync. The Microwa
 
 - 2026-11-25: File created from the first 3 Instagram reels. Daily stats run now updates it; the ideas and production runs read it.
 - 2026-11-26: Metricool had no new Instagram numbers since 11-25 (same values; Microwave published but unsynced). Scoreboard ages refreshed, follower table + Facebook added, baselines 0 on TT/YT/FB. Lessons and rules unchanged (no new evidence).
+- 2026-11-26 (evening): Added Bill's first-day numbers for TikTok/YouTube/Facebook (TikTok 700+ on all 3, YouTube one Short over 1k, Facebook lagging).
