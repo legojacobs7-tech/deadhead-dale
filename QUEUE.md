@@ -334,7 +334,7 @@ Next November, Dale needs some cash.
 Dale takes a seasonal job at the big box store...
 
 ## 2026-11-27-A — Christmas Lights
-status: approved
+status: scheduled 2026-11-30 18:00 CT (episode 17)
 caption share line: Send this to someone who still hasn't untangled last year's lights.
 script:
 Dale pulls the Christmas lights out of the garage.
