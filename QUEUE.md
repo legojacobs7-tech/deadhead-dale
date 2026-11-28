@@ -359,7 +359,7 @@ He doesn't wind it. Fuck winding it.
 Dale pulls the Christmas lights out of the garage...
 
 ## 2026-11-27-E — On Hold
-status: approved
+status: scheduled 2026-12-01 10:00 CT (episode 18)
 caption share line: Send this to someone who has been on hold with the cable company since Tuesday.
 script:
 Dale calls the cable company.
