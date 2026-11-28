@@ -332,3 +332,53 @@ Dale hands his vest to the horse.
 The horse is great at it, the son of a bitch.
 Next November, Dale needs some cash.
 Dale takes a seasonal job at the big box store...
+
+## 2026-11-27-A — Christmas Lights
+status: approved
+caption share line: Send this to someone who still hasn't untangled last year's lights.
+script:
+Dale pulls the Christmas lights out of the garage.
+It's one big ball, tangled to shit since 2009.
+He plugs it in, and one bulb is out, so the whole goddamn string is dead.
+The dead bulb is named Terry, and Terry is on strike.
+Terry wants dental, which is rich for a bulb with no fucking teeth.
+The other bulbs side with Terry, the disloyal little bastards.
+They picket the driveway with tiny signs.
+The neighbor's inflatable snowman leans over the fence and calls Dale a cheap son of a bitch.
+Dale stabs the snowman with a fork, and it flies off over Topeka, screaming.
+Now every inflatable on the street wants revenge. Santa, two reindeer, and a goddamn Grinch.
+They surround the house at midnight, humming.
+Dale negotiates. Terry gets dental and his own parking spot.
+Terry lights up, and so does every bulb, the brightest shit you've ever seen.
+The house is visible from space.
+NASA calls and tells Dale to turn that crap down.
+A plane lands in his yard because it thought he was the airport.
+The pilot stays for Christmas. Nobody invited his ass.
+In January, Dale rips it all off the house and shoves it in one box.
+He doesn't wind it. Fuck winding it.
+Dale pulls the Christmas lights out of the garage...
+
+## 2026-11-27-E — On Hold
+status: approved
+caption share line: Send this to someone who has been on hold with the cable company since Tuesday.
+script:
+Dale calls the cable company.
+Press one for billing. Press two to cry. Dale presses the shit out of both.
+The hold music is one saxophone, playing the same eight goddamn seconds.
+The robot says, your call is very important to us. It's lying its ass off.
+Hour three. Dale's beard grows past the mustache.
+Hour nine. A flock of geese migrates through his kitchen.
+One goose asks, you still on hold? Dale says, mind your own fucking business.
+The saxophone guy climbs out of the phone. He's four inches tall and smells like a bus.
+His name is Ronnie, and he's been stuck in hold music since 1996.
+Ronnie wants to go home, but he doesn't know where the hell home is.
+Dale drives him to Minneapolis, and Ronnie plays the eight seconds the whole damn way.
+Dale throws the phone out the window. It keeps holding.
+Ronnie's family lives in a mailbox in Minneapolis. All tiny. All saxophones.
+They play the eight seconds together, and Dale cries like a little bitch.
+Back home, a lady finally picks up and says, thank you for holding.
+Dale says, I want to cancel. She says, sure, let me transfer you.
+Dale says, don't you goddamn dare.
+Saxophone.
+Six months later, the bill is double.
+Dale calls the cable company...
